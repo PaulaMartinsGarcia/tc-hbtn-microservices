@@ -21,4 +21,4 @@ Benefícios: agilidade na hora da implantação, ganho em custos operacionais da
 * Quais as principais diferenças entre Arquitetura Monolítica, Microsserviços e Serverless ?
 Arquitetura Monolítica é quando uma única aplicação de software contém a interface do usuário, as regras de negócio e código de acesso a dados. Combinado em apenas um único programa e uma única plataforma. É autônoma e independente de outras aplicações.
 Microsserviços é uma arquitetura diferente do monolito, então os sistemas grandes e complexos são transformados em componentes individuais, são divididos e cada um fica com uma responsabilidade.
-Serverless a aplicação funciona em um servidor, porém o gerenciamento do servidor fica por conta de um provedor de nuvem. O desenvolvedor não precisa se preocupar com configurações relacionadas à infraestrutura.
+Serverless a aplicação funciona em  servidor, porém o gerenciamento do servidor fica por conta de um provedor de nuvem. O desenvolvedor não precisa se preocupar com configurações relacionadas à infraestrutura.
