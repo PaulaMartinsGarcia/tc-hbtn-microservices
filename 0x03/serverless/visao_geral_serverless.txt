@@ -1,0 +1,24 @@
+﻿* O que é Arquitetura Serverless?
+Modelo de execução onde o provedor de cloud será responsável por executar pedaços de código com recursos que irão ser alocados dinamicamente e cobrando apenas pelos recursos usados para executar aquele código específico.
+
+
+* O que é Function as a service (FaaS) ?
+É um modelo de execução computacional orientado a eventos que é executado em containers stateless. Essas funções gerenciam a lógica e o estado no lado do servidor usando serviços.
+
+
+* Quais os benefícios de usar arquitetura Serverless ?
+Aumenta a produtividade dos desenvolvedores e reduz os custos operacionais.
+Fácil adotar práticas de DevOps. 
+Possível incorporar componentes completos de soluções de BaaS de terceiros para otimizar ainda mais o desenvolvimento de aplicações.
+Custos operacionais reduzidos no modelo serverless porque você paga o tempo de computação baseado em nuvem conforme necessário. 
+
+
+* O que é Cloud Computing ? Quais seus benefícios ?
+É o fornecimento de serviços de computação, incluindo servidores, armazenamento, bancos de dados, rede, software, análise e inteligência, pela Internet (“a nuvem”) para oferecer inovações mais rápidas, recursos flexíveis e economias de escala. 
+Benefícios: agilidade na hora da implantação, ganho em custos operacionais da infraestrutura, segurança e confiabilidade dos dados.
+
+
+* Quais as principais diferenças entre Arquitetura Monolítica, Microsserviços e Serverless ?
+Arquitetura Monolítica é quando uma única aplicação de software contém a interface do usuário, as regras de negócio e código de acesso a dados. Combinado em apenas um único programa e uma única plataforma. É autônoma e independente de outras aplicações.
+Microsserviços é uma arquitetura diferente do monolito, então os sistemas grandes e complexos são transformados em componentes individuais, são divididos e cada um fica com uma responsabilidade.
+Serverless a aplicação funciona em um servidor, porém o gerenciamento do servidor fica por conta de um provedor de nuvem. O desenvolvedor não precisa se preocupar com configurações relacionadas à infraestrutura.
